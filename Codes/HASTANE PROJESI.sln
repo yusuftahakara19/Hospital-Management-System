@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HASTANE PROJESI", "HASTANE PROJESI\HASTANE PROJESI.csproj", "{ED3DAF2B-5AE1-43DC-9AE1-1C75BF9F9E45}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Biruni_Hastanesi_Bilgi_İslem_Sistemi", "Biruni_Hastanesi_Bilgi_İslem_Sistemi\Biruni_Hastanesi_Bilgi_İslem_Sistemi.vdproj", "{C61E8628-58A1-45C9-9438-BBAD0C8CD35E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED3DAF2B-5AE1-43DC-9AE1-1C75BF9F9E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3DAF2B-5AE1-43DC-9AE1-1C75BF9F9E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3DAF2B-5AE1-43DC-9AE1-1C75BF9F9E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3DAF2B-5AE1-43DC-9AE1-1C75BF9F9E45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C61E8628-58A1-45C9-9438-BBAD0C8CD35E}.Debug|Any CPU.ActiveCfg = Debug
+		{C61E8628-58A1-45C9-9438-BBAD0C8CD35E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

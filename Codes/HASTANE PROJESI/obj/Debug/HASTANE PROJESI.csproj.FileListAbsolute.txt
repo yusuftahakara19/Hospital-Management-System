@@ -1,0 +1,31 @@
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\bin\Debug\HASTANE PROJESI.exe.config
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\bin\Debug\HASTANE PROJESI.exe
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\bin\Debug\HASTANE PROJESI.pdb
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE PROJESI.csprojResolveAssemblyReference.cache
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE_PROJESI.Properties.Resources.resources
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE PROJESI.csproj.GenerateResource.Cache
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE PROJESI.exe
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE PROJESI.pdb
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE_PROJESI.FrmDoktorBilgiDuzenle.resources
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE_PROJESI.FrmDoktorDetay.resources
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE_PROJESI.FrmDoktorGiris.resources
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE_PROJESI.FrmGiris.resources
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE_PROJESI.FrmHastaBilgiDuzenle.resources
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE_PROJESI.FrmHastaDetay.resources
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE_PROJESI.FrmHastaGiris.resources
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE_PROJESI.FrmHastaUyeOl.resources
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE_PROJESI.FrmSekreterBransPaneli.resources
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE_PROJESI.FrmSekreterDetay.resources
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE_PROJESI.FrmSekreterDoktorPaneli.resources
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE_PROJESI.FrmSekreterGiris.resources
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE_PROJESI.FrmSekreterRandevuListesi.resources
+C:\Users\ytkar\Desktop\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE_PROJESI.FrmDuyuru.resources
+C:\Users\ytkar\Desktop\C#\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\bin\Debug\HASTANE PROJESI.exe.config
+C:\Users\ytkar\Desktop\C#\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE PROJESI.exe
+C:\Users\ytkar\Desktop\C#\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE PROJESI.pdb
+D:\C#\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\bin\Debug\HASTANE PROJESI.exe.config
+D:\C#\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE PROJESI.exe
+D:\C#\Udemy C# Çalışmaları\HASTANE PROJESI\HASTANE PROJESI\obj\Debug\HASTANE PROJESI.pdb
+D:\Github\Hospital-Management-System\Codes\HASTANE PROJESI\bin\Debug\HASTANE PROJESI.exe.config
+D:\Github\Hospital-Management-System\Codes\HASTANE PROJESI\obj\Debug\HASTANE PROJESI.exe
+D:\Github\Hospital-Management-System\Codes\HASTANE PROJESI\obj\Debug\HASTANE PROJESI.pdb
